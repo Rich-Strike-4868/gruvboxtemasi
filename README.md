@@ -3,9 +3,9 @@
 
 ![image](https://github.com/Rich-Strike-4868/gruvboxtemasi/assets/114027472/39d0a133-d823-47c4-8469-efe42a73912b)
 
-
-- BROWSER: CHROMIUM BROWSER
-- BROWSER WALLPAPER: https://wallhaven.cc/w/zmqd3w
+- ARKAPLAN: https://wallhaven.cc/w/13dgw9
+- TARAYICI: CHROMIUM BROWSER
+- TARAYICI ARKAPLANI: https://wallhaven.cc/w/zmqd3w
 
 # Öncelikle ihtiyacınız olan uygulamaları saymakla başlayayım.
 
